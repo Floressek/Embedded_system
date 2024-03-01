@@ -5,7 +5,7 @@
 
 This project showcases a comprehensive embedded system designed for practical demonstration and educational purposes. Utilizing a microcontroller as its core, the system integrates motor control, user input via a keypad, and feedback through both LCD and 7-segment displays. Concepts in embedded system design, such as peripheral interfacing, real-time control, and user interaction are highlighted.
 
-![Embedded System Block Diagram](2024-03-01 20_52_55-Programowanie Mikrokontrolerow - VMware Workstation 17 Player (Non-commercial us.png
+![Embedded System Block Diagram](2024-03-01 20_52_55-Programowanie Mikrokontrolerow - VMware Workstation 17 Player (Non-commercial use).png)
 
 ## Project Components
 
